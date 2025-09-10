@@ -90,6 +90,7 @@ Choose an option:
 
 ## 📸 Screenshot
 
+<img width="987" height="471" alt="Screenshot 2025-09-10 161408" src="https://github.com/user-attachments/assets/a427e9a9-d990-4784-abf9-1b57c7301296" />
 
 
 ## ⚠️ Disclaimer
