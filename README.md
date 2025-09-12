@@ -25,15 +25,16 @@ It will only help you check if a parameter is potentially vulnerable, but it wil
 ```bash
 
 InjectX/
-│── SQLi/
-│ │── main.py # Entry point for the tool
-│ │── boolean_based/
-│ │ └── boolean_based.py
-│ │── error_based/
-│ │ └── error_based.py
-│ │── time_based/
-│ │ └── time_based.py
-│── README.md
+ │
+ │── main.py # Entry point for the tool
+ │ │── boolean_based/
+ │ │ └── boolean_based.py
+ │ │── error_based/
+ │ │ └── error_based.py
+ │ │── time_based/
+ │ │ └── time_based.py
+ │── README.md
+ │── requirements.txt
 
 ```
 
